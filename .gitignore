@@ -2,3 +2,6 @@
 /rascal/input/*
 !/rascal/input/*.ctl
 /rascal/output/
+projects/Rascal-Hygiene/bin/
+projects/generated-derric/bin/
+projects/generated-missgrant/bin/
